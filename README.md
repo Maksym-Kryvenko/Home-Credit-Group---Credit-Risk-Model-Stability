@@ -18,6 +18,7 @@ The competition is hosted by Home Credit, a leading global provider of consumer 
 
 ## Requirements
 
+- GPU (otherwise update the code with CPU instead)
 - Python 3.x
 - Dependencies listed in `requirements.txt`
 
